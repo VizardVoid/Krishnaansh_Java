@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights>
+    <flight id="FLT001">
+        <flightNumber>AA101</flightNumber>
+        <airline>American Airlines</airline>
+        <source>New York</source>
+        <destination>Los Angeles</destination>
+        <departureTime>2025-11-15T08:00:00</departureTime>
+        <arrivalTime>2025-11-15T11:30:00</arrivalTime>
+        <totalSeats>180</totalSeats>
+        <availableSeats>45</availableSeats>
+        <economyFare>299.99</economyFare>
+        <businessFare>899.99</businessFare>
+        <status>SCHEDULED</status>
+    </flight>
+    <flight id="FLT002">
+        <flightNumber>UA202</flightNumber>
+        <airline>United Airlines</airline>
+        <source>Los Angeles</source>
+        <destination>Chicago</destination>
+        <departureTime>2025-11-15T14:00:00</departureTime>
+        <arrivalTime>2025-11-15T20:15:00</arrivalTime>
+        <totalSeats>200</totalSeats>
+        <availableSeats>78</availableSeats>
+        <economyFare>249.99</economyFare>
+        <businessFare>749.99</businessFare>
+        <status>SCHEDULED</status>
+    </flight>
+    <flight id="FLT003">
+        <flightNumber>DL303</flightNumber>
+        <airline>Delta Airlines</airline>
+        <source>Chicago</source>
+        <destination>Miami</destination>
+        <departureTime>2025-11-16T09:30:00</departureTime>
+        <arrivalTime>2025-11-16T13:45:00</arrivalTime>
+        <totalSeats>150</totalSeats>
+        <availableSeats>32</availableSeats>
+        <economyFare>279.99</economyFare>
+        <businessFare>829.99</businessFare>
+        <status>SCHEDULED</status>
+    </flight>
+</flights>
