@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookings>
+    <booking>
+        <bookingId>B001</bookingId>
+        <passengerId>P001</passengerId>
+        <flightId>F001</flightId>
+        <seatNo>12A</seatNo>
+        <bookingDate>2025-11-01</bookingDate>
+        <status>CONFIRMED</status>
+    </booking>
+</bookings>

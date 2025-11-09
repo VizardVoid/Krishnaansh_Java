@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passengers>
+    <passenger>
+        <passengerId>P001</passengerId>
+        <name>John Doe</name>
+        <contact>john@example.com</contact>
+        <idCard>XYZ1234</idCard>
+        <preferences>Window seat</preferences>
+    </passenger>
+</passengers>

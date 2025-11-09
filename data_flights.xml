@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights>
+    <flight>
+        <flightId>F001</flightId>
+        <source>DEL</source>
+        <destination>BOM</destination>
+        <date>2025-11-12</date>
+        <time>09:00</time>
+        <totalSeats>180</totalSeats>
+        <availableSeats>160</availableSeats>
+        <fare>4500</fare>
+        <flightClass>Economy</flightClass>
+        <status>On-time</status>
+    </flight>
+</flights>
